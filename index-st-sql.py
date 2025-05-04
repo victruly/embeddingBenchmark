@@ -36,8 +36,8 @@ dataset = load_dataset("MediaTek-Research/TCEval-v2", "drcd")
 # SQL Server 連線設定
 DB_SERVER = 'phqairobt01.twn.psc'  # 替換為您的 SQL Server 名稱或 IP
 DB_DATABASE = 'TranslateUAT'  # 替換為您的資料庫名稱
-DB_USER = 'airuser'  # 替換為您的使用者名稱
-DB_PASSWORD = 'translate#MIS#UAT'  # 替換為您的密碼
+DB_USER = 'xxx'  # 替換為您的使用者名稱
+DB_PASSWORD = 'aaa'  # 替換為您的密碼
 table_name = 'your_table_name'  # 替換為您的資料表名稱
 
 
